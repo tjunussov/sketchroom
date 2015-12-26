@@ -1,0 +1,95 @@
+<room-definition id="1" name="room1" title="Кабинет Билологии 22" grid="0" width="460" height="580" tmp-geometry="40:20,540:20,540:600,40:600" tmp-stroke="2">
+	
+	<!--/-->
+	<pupil id="1" name="Нурсултан Тюякпай" user="arsik" gender="male"/>
+	<pupil id="2" name="Дарига Кабылова" user="aige_rim" gender="female"/>
+	<pupil id="3" name="Тимур Калдыбаев" user="brigadir" gender="male"/>
+	<pupil id="4" name="Загиба Токаева" user="arujazz" gender="female"/>
+	<pupil id="5" name="Дарига Кабылова" user="cherrypapa" gender="male"/>
+	<pupil id="6" name="Лейла Храпун" user="asel_kisikova" gender="female"/>
+	<pupil id="7" name="Дарига Кабылова" user="kubekovkz" gender="male"/>
+	<pupil id="8" name="Нурсултан Тюякпай" user="bakunya" gender="female"/>
+	<pupil id="9" name="Дарига Кабылова" user="belochkada" gender="female"/>
+	<pupil id="10" name="Тимур Калдыбаев" user="glavkoshka" gender="female"/>
+	<pupil id="11" name="Загиба Токаева" user="maggi" gender="female"/>
+	<pupil id="12" name="Дарига Кабылова" user="milana31" gender="female"/>
+	<pupil id="13" name="Лейла Храпун" user="muratbeydilov" gender="male"/>
+	<pupil id="14" name="Дарига Кабылова" user="narimusya" gender="male"/>
+	<pupil id="15" name="Нурсултан Тюякпай" user="paks13" gender="male"/>
+	<pupil id="16" name="Дарига Кабылова" user="panterita" gender="female"/>
+	<pupil id="17" name="Тимур Калдыбаев" user="samson" gender="male"/>
+	<pupil id="18" name="Загиба Токаева" user="sergeyvulkan" gender="male"/>
+	<pupil id="19" name="Дарига Кабылова" user="serique" gender="male"/>
+	<pupil id="20" name="Лейла Храпун" user="zhumabekova" gender="female"/>
+	<pupil id="21" name="Дарига Кабылова" user="zhusupova" gender="female"/>
+	
+	<!--/-->
+	
+	<desk id="2" title="Парта 1" x="40" y="200" width="100" height="40">
+		<seat pupil-id="1"/>
+		<seat pupil-id="222"/>
+	</desk>
+	
+	<desk id="3" title="Парта 2" x="180" y="200" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	
+	<desk id="4" title="Парта 3" x="320" y="200" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	
+	<desk id="5" title="Парта 4" x="40" y="280" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	<desk id="6" title="Парта 5" x="180" y="280" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	<desk id="7" title="Парта 6" x="320" y="280" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	
+	<desk id="8" title="Парта 7" x="40" y="360" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	<desk id="9" title="Парта 8" x="180" y="360" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	<desk id="10" title="Парта 9" x="320" y="360" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	
+	<desk id="11" title="Парта 10" x="40" y="440" width="100" height="40">
+		<seat/>
+	</desk>
+	<desk id="12" title="Парта 11" x="180" y="440" width="100" height="40">
+		<seat/>
+	</desk>
+	<desk id="13" title="Парта 12" x="320" y="440" width="100" height="40">
+		<seat/>
+	</desk>
+	
+	<door id="14" title="Дверь" x="460" y="40" length="80"/>
+	
+	<window id="15" title="Окно" x="0" y="40" length="200"/>
+	<window id="15" title="Окно" x="0" y="300" length="200"/>
+	
+	<window id="12" title="Мини Окно" x="60" y="0" length="40" rotate="90"/>
+	<window id="12" title="Мини Окно" x="400" y="0" length="40" rotate="270"/>
+	
+	<board id="1" title="Доска" x="80" y="0" width="300" height="10"/>
+	<table id="2" title="Стол 1" x="40" y="100" width="140" height="60"/>
+	<chair id="16" title="Стул 1" x="400" y="540" width="40" height="40"/>
+	<chair id="16" title="Стул 2" x="20" y="540" width="40" height="40"/>
+	<wardrobe id="0" title="Шкаф" x="80" y="520" width="300" height="60"/>
+	
+	<!--sofa id="17" title="Диван" x="460" y="40" width="0" height="140"/-->
+	 
+</room-definition>

@@ -1,0 +1,70 @@
+<room-definition id="1" name="room1" label="Кабинет Билологии 22" grid="0" width="460" height="580" tmp-geometry="40:20,540:20,540:600,40:600" tmp-stroke="2">
+	
+	<pupil id="1" name="Нурсултан Тюякпай" user="ntyakpay" gender="male"/>
+	<pupil id="2" name="Дарига Кабылова" user="kdariga" gender="female"/>
+	
+	<desk id="2" label="Парта 1" x="40" y="200" width="100" height="40">
+		<seat pupil-id="1"/>
+		<seat pupil-id="2"/>
+	</desk>
+	
+	<desk id="3" label="Парта 2" x="180" y="200" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	
+	<desk id="4" label="Парта 3" x="320" y="200" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	
+	<desk id="5" label="Парта 4" x="40" y="280" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	<desk id="6" label="Парта 5" x="180" y="280" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	<desk id="7" label="Парта 6" x="320" y="280" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	
+	<desk id="8" label="Парта 7" x="40" y="360" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	<desk id="9" label="Парта 8" x="180" y="360" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	<desk id="10" label="Парта 9" x="320" y="360" width="100" height="40">
+		<seat/>
+		<seat/>
+	</desk>
+	
+	<desk id="11" label="Парта 10" x="40" y="440" width="100" height="40">
+		<seat/>
+	</desk>
+	<desk id="12" label="Парта 11" x="180" y="440" width="100" height="40">
+		<seat/>
+	</desk>
+	<desk id="13" label="Парта 12" x="320" y="440" width="100" height="40">
+		<seat/>
+	</desk>
+	
+	<door id="14" label="Дверь" x="460" y="40" width="0" height="80"/>
+	
+	<window id="15" label="Окно" x="0" y="40" width="0" height="200"/>
+	<window id="15" label="Окно" x="0" y="300" width="0" height="200"/>
+	
+	<board id="1" label="Доска" x="80" y="0" width="300" height="10"/>
+	<table id="2" label="Стол 1" x="40" y="100" width="140" height="60"/>
+	<chair id="16" label="Стул 1" x="400" y="540" width="40" height="40"/>
+	<chair id="16" label="Стул 2" x="20" y="540" width="40" height="40"/>
+	<wardrobe id="0" label="Шкаф" x="80" y="520" width="300" height="60"/>
+	
+	<!--sofa id="17" label="Диван" x="460" y="40" width="0" height="140"/-->
+	 
+</room-definition>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<pupil id="1" name="Нурсултан Тюякпай" user="arsik" gender="male"/>
+	<pupil id="2" name="Дарига Кабылова" user="aige_rim" gender="female"/>
+	<pupil id="3" name="Тимур Калдыбаев" user="brigadir" gender="male"/>
+	<pupil id="4" name="Загиба Токаева" user="arujazz" gender="female"/>
+	<pupil id="5" name="Дарига Кабылова" user="cherrypapa" gender="male"/>
+	<pupil id="6" name="Лейла Храпун" user="asel_kisikova" gender="female"/>
+	<pupil id="7" name="Дарига Кабылова" user="kubekovkz" gender="male"/>
+	<pupil id="8" name="Нурсултан Тюякпай" user="bakunya" gender="female"/>
+	<pupil id="9" name="Дарига Кабылова" user="belochkada" gender="female"/>
+	<pupil id="10" name="Тимур Калдыбаев" user="glavkoshka" gender="female"/>
+	<pupil id="11" name="Загиба Токаева" user="maggi" gender="female"/>
+	<pupil id="12" name="Дарига Кабылова" user="milana31" gender="female"/>
+	<pupil id="13" name="Лейла Храпун" user="muratbeydilov" gender="male"/>
+	<pupil id="14" name="Дарига Кабылова" user="narimusya" gender="male"/>
+	<pupil id="15" name="Нурсултан Тюякпай" user="paks13" gender="male"/>
+	<pupil id="16" name="Дарига Кабылова" user="panterita" gender="female"/>
+	<pupil id="17" name="Тимур Калдыбаев" user="samson" gender="male"/>
+	<pupil id="18" name="Загиба Токаева" user="sergeyvulkan" gender="male"/>
+	<pupil id="19" name="Дарига Кабылова" user="serique" gender="male"/>
+	<pupil id="20" name="Лейла Храпун" user="zhumabekova" gender="female"/>
+	<pupil id="21" name="Дарига Кабылова" user="zhusupova" gender="female"/>
+</data>

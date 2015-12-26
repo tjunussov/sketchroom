@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<definition id="1446659" tempFile="data/process-definition.xml" name="PreTechReq" version="8" label="Получение штрих-кода для удостоверения личности"/>
+	<definition id="1446659" tempFile="data/process-definitionX.xml" name="PreTechReq" version="8" label="Открытие нового периода X"/>
+	<definition id="1446659" tempFile="data/process-definitionY.xml" name="PreTechReq" version="8" label="Открытие нового периода Y"/>
+	<definition id="1446659" tempFile="data/definition.xml" name="PreTechReq" version="8" label="Оформление предварительных технических условий"/>
+	<definition id="1446659" tempFile="data/definition-da.xml" name="PreTechReq" version="8" label="Входящая корреспонденция"/>
+</list>
