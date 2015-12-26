@@ -488,7 +488,7 @@ var DV = {
 						// toolbox buttons
 						var but = document.createElement("ui-"+$(this).attr("name"));
 							but.className = "wx-bpm-tool-node";
-							but.style.backgroundImage = "url(node-types/"+$(this).attr("name")+".png)";
+							but.style.backgroundImage = "url(node-types/"+$(this).attr("name").toUpperCase()+".png)";
 							but.nodeDef = this;
 							but.title = $(this).attr("title") ? $(this).attr("title") : $(this).attr("name");
 							
